@@ -21,8 +21,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://gitlab.com/foundrynet/worldbuilding/",
-  "manifest": "https://gitlab.com/foundrynet/worldbuilding/raw/master/system.json",
-  "download": "https://gitlab.com/foundrynet/worldbuilding/-/archive/release-040/worldbuilding-release-040.zip",
+  "url": "https://github.com/gmsshadow/shadowcatcher/",
+  "manifest": "https://github.com/gmsshadow/shadowcatcher/raw/master/system.json",
+  "download": "",
   "license": "LICENSE.txt"
 }
