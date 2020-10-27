@@ -2,7 +2,7 @@
   "name": "shadowcatcher",
   "title": "Shadowcatcher",
   "description": "A rudimentary implementation of for Foundry VTT, based entirely on the Simple Worldbuilding System for Foundry designed by Atropos.",
-  "version": 0.40,
+  "version": 0.41,
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.3",
   "templateVersion": 2,
