@@ -22,7 +22,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/gmsshadow/shadowcatcher/",
-  "manifest": "https://github.com/gmsshadow/shadowcatcher/raw/master/system.json",
+  "manifest": "https://raw.githubusercontent.com/gmsshadow/shadowcatcher/main/system.json",
   "download": "https://github.com/gmsshadow/shadowcatcher/archive/main.zip",
   "license": "LICENSE.txt"
 }
