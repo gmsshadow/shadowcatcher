@@ -23,6 +23,6 @@
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/gmsshadow/shadowcatcher/",
   "manifest": "https://github.com/gmsshadow/shadowcatcher/raw/master/system.json",
-  "download": "",
+  "download": "https://github.com/gmsshadow/shadowcatcher/archive/main.zip",
   "license": "LICENSE.txt"
 }
